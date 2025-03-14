@@ -7,6 +7,7 @@ We also love sharing what we’ve learned along the way—mostly on [our blog](h
 
 ### Latest articles
 
+* [Ruberto, a gem that integrates Uber into your Ruby project](https://unagisoftware.com/articles/ruberto-a-gem-that-integrates-uber-into-your-ruby-project/)
 * [Optimizing Pagination in Ruby on Rails: The Power of pagy_keyset](https://unagisoftware.com/articles/optimizing-pagination-in-ruby-on-rails-the-power-of-pagy_keyset/)
 * [Hotwire Turbo Frames: Add Seamless Loading Spinners in Rails](https://unagisoftware.com/articles/hotwire-turbo-frames-add-seamless-loading-spinners-in-rails)
 * [Picture-in-Picture with Hotwire in Ruby on Rails](https://unagisoftware.com/articles/picture-in-picture-with-hotwire-in-ruby-on-rails/)
@@ -16,4 +17,3 @@ We also love sharing what we’ve learned along the way—mostly on [our blog](h
 * [Hotjar y heatmaps: métricas al rescate](https://unagisoftware.com/articles/hotjar-y-heatmaps-metricas-al-rescate/)
 * [Rails and Turbo Frames: How to Use data-turbo-action to Preserve Search State](https://unagisoftware.com/articles/optimize-search-forms-with-turbo-frames-in-ruby-on-rails/)
 * [Triggering Hotwire TurboStream Action with request.js](https://unagisoftware.com/articles/button-with-data-action-and-request-js/)
-* [Cómo tener root_path diferentes para mobile y desktop en Ruby on Rails](https://unagisoftware.com/articles/como-tener-root_path-diferentes/)

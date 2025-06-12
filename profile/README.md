@@ -1,6 +1,6 @@
 # Hola! 👋
 
-We’re [Unagi](https://unagisoftware.com) – a team passionate about building top-notch Ruby on Rails apps to help you focus on what you do best. 
+We’re [Unagi](https://unagisoftware.com) – a team passionate about building top-notch Ruby on Rails and Hotwire apps to help you focus on what you do best. 
 Whether you’re a startup founder with a new idea, a product owner at a small enterprise, or an ambitious business looking to expand your team, we’re here to help you navigate complex challenges with our user-centered approach. Take a look at [our experiences](https://unagisoftware.com/experiences/) to know more.
 
 We also love sharing what we’ve learned along the way—mostly on [our blog](https://unagisoftware.com/articles). 

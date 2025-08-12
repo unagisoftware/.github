@@ -7,6 +7,8 @@ We also love sharing what we’ve learned along the way—mostly on [our blog](h
 
 ### Latest articles
 
+* [Building an Idiot-Proof Environment Indicator in Ruby on Rails](https://unagisoftware.com/articles/building-an-idiot-proof-environment-indicator-in-ruby-on-rails/)
+* [Coordinating Rails and JavaScript with Custom Turbo Actions](https://unagisoftware.com/articles/coordinating-rails-and-javascript-with-custom-turbo-actions/)
 * [Better Client-side Validations Using Stimulus](https://unagisoftware.com/articles/better-client-side-validations-using-stimulus/)
 * [Adding Text Highlights and Notes in Rails with Hotwire](https://unagisoftware.com/articles/adding-text-highlights-and-notes-in-rails-with-hotwire/)
 * [Ruberto, a gem that integrates Uber into your Ruby project](https://unagisoftware.com/articles/ruberto-a-gem-that-integrates-uber-into-your-ruby-project/)
@@ -15,5 +17,3 @@ We also love sharing what we’ve learned along the way—mostly on [our blog](h
 * [Picture-in-Picture with Hotwire in Ruby on Rails](https://unagisoftware.com/articles/picture-in-picture-with-hotwire-in-ruby-on-rails/)
 * [Real-Time Updates in a Ruby on Rails Dashboard with Hotwire](https://unagisoftware.com/articles/autoreloading-dashboard-with-turbo-frames/)
 * [Cómo Crear Tu Propio Registry para Deployments con Kamal](https://unagisoftware.com/articles/como-crear-tu-propio-registry-para-deployments-con-kamal/)
-* [Rails and Turbo Frames: How to Use data-turbo-action to Preserve Search State](https://unagisoftware.com/articles/optimize-search-forms-with-turbo-frames-in-ruby-on-rails/)
-* [Hotjar y heatmaps: métricas al rescate](https://unagisoftware.com/articles/hotjar-y-heatmaps-metricas-al-rescate/)
